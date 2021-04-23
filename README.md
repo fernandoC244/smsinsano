@@ -6,6 +6,6 @@
 <pre>apt install python3 </pre>
 <p>para poder usar este script debes ejecurar este comando</p>
 <br>
-<pre>git clone https://github.com/fernandoC244/smsmaldito</pre>
-<pre>cd smsmaldito</pre>
-<pre> python3 smsmaldito.py </pre>
+<pre>git clone https://github.com/fernandoC244/smsinsano</pre>
+<pre>cd smsinsano</pre>
+<pre> python3 smsinsano.py </pre>
