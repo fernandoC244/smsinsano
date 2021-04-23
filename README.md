@@ -1,5 +1,5 @@
 <img src="fr.png" width="755" height="440" />
-<h1>smsmaldito</h1>
+<h1>smsinsano</h1>
 <br>
 <p>para poder usar este script debes tener instalado python3 puedes instalarlo con:</p>
 <br>
